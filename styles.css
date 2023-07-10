@@ -1,0 +1,23 @@
+.header{
+    background-image: url("simplehouse.jpg");
+    background-size: 100%;
+    height: 500px;
+}
+.header .box{
+        width: 50px;
+        height: 50px;
+        background-color:white;
+        margin-top: -90px;
+        margin-left: 115px;
+       
+        
+
+}
+.header .box1{
+    margin-left: 130px;
+   margin-top: -50px;
+    width: 50px;
+    height: 50px;
+    border: 3px solid white;
+    
+}
